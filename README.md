@@ -1,7 +1,7 @@
 # :clipboard: | CPE010 - Data Structures and Algorithms
 #### :wave: | Student Information:
 
-Name: Garcia, Dennis James T. <br>
+Name: Garcia, Dennis James Taha <br>
 Section: CPE21S4 <br>
 ![Static Badge](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
