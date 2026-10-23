@@ -3,7 +3,7 @@
 
 Name: Garcia, Dennis James T. <br>
 Section: CPE21S4 <br>
-Programming Language: ![C++](https://shields.io)
+Programming Language: <span style="background-color: #00599C; color: white; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-family: monospace; font-size: 13px;">C++</span>
 
 ---
 ## :books: | Course Topics
