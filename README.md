@@ -12,3 +12,5 @@ trees (including binary and multi-way trees), heaps, stacks, and priority queues
 external search trees (B-trees), and fundamentals of sorting algorithms with external sorting are introduced and compared. The
 student's outcome is to design algorithms for each data structure and to use data structures and algorithms in the design of an
 effective program or software application that will solve a particular engineering-related problem using C++
+
+
