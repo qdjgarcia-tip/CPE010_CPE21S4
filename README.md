@@ -1,4 +1,6 @@
-# :clipboard: | Portfolio for all 2nd Year, First Semester Hands-On Activities
+# :clipboard: | Portfolio for CPE010 - Data Structures and Algorithms
+
+## *First Year, Second Semester*
 
 #### :wave: | Student Information:
 Name: Garcia, Dennis James T.
@@ -13,13 +15,14 @@ Course: CPE010 - Data Structures and Algorithms
 C++ Programming Review, Abstract Data Types, Space and Time
 Complexity, Algorithm Analysis Techniques
 
-  - Hands-on Activity 1.1 | Basic C++ Programming
+  | Hands on Activity  | Description |
+  | --- | --- |
+  | 1.1  | Basic C++ Programming  |
 
 2. Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
 
-  - Hands-on Activity 2.1 >> Arrays, Pointers and Dynamic Memory Allocation
-  - Hands-on Activity 3.1 >> Linked Lists
-  - Hands-on Activity 4.1 >> Stacks
-
-
-
+| Hands on Activity  | Description |
+| --- | --- |
+| 2.1  | Arrays, Pointers and Dynamic Memory Allocation  |
+| 3.1  |  Linked Lists  |
+| 4.1  |  Stacks |
