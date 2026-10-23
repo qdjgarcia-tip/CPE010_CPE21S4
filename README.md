@@ -1,9 +1,10 @@
 # **CPE 010 - Data Structures and Algorithms**
 ## **Section: CPE21S4**
 
-:clipboard:*Portfolio for all 2nd Year, First Semester Hands-On Activities*
+##:clipboard:*Portfolio for all 2nd Year, First Semester Hands-On Activities*
 
-:mortar_board: A. Course Description
+##:mortar_board: A. Course Description
+
 This course focuses on solving computational problems that manipulate collected data, studying a core set of data
 abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content
 includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks,
