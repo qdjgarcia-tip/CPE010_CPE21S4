@@ -22,15 +22,15 @@ Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [2.1]  | Arrays, Pointers and Dynamic Memory Allocation  |
-  | [3.1]  |  Linked Lists  |
+  | [2.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Prelim/HoA%202.1)  | Arrays, Pointers and Dynamic Memory Allocation  |
+  | [3.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Prelim/HoA%203.1)  |  Linked Lists  |
 
 *Stacks:* <br>
 Stack using Array, Stack using Linked Lists, Implementation in C++, Problem Solving
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [4.1]  |  Stacks |
+  | [4.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Prelim/HoA%204.1)  |  Stacks |
 
 #### :closed_book:| Midterm Grading Period
 
@@ -39,22 +39,22 @@ Queues using Arrays, Queues using Linked Lists, Implementation in C++, Problem S
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [5.1]  | Queues  |
+  | [5.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Midterm/HoA%205.1)  | Queues  |
 
 *Searching Techniques:* <br>
 Linear Search, Binary Search, Hashing
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [6.1]  |  Searching Techniques |
+  | [6.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Midterm/HoA%206.1)  |  Searching Techniques |
 
 *Sorting Algorithms:* <br>
 Basic Sorting Algorithms
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [7.1]  |  Sorting Algorithms Part 1 |
-  | [8.1]  |  Sorting Algorithms Part 2 |
+  | [7.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Midterm/HoA%207.1)  |  Sorting Algorithms Part 1 |
+  | [8.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Midterm/HoA%208.1)  |  Sorting Algorithms Part 2 |
 
 #### :blue_book:| Final Grading Period
 
@@ -64,13 +64,13 @@ Adjacency Matrix and Adjacency List; Breadth-First Search; Depth-First Search; S
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [10.1]  |  Graphs |
+  | [10.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Midterm/HoA%2010.1)  |  Graphs |
 
 *Basic Algorithm Analysis:* <br>
 Theoretical and Experimental Methods in Measuring Time; Time Complexity Classes.
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [11.1]  |  Basic Algorithm Analysis |
-  | [12.1]  |  Algorithmic Strategies |
-  | [14.1]  |  Algorithm Complexity |
+  | [11.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Finals/HoA%2011.1)  |  Basic Algorithm Analysis |
+  | [12.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Finals/HoA%2012.1)  |  Algorithmic Strategies |
+  | [14.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/2e4f42d22368fc6480196b7c13241e80ab095203/Finals/HoA%2014.1)  |  Algorithm Complexity |
   
