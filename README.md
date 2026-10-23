@@ -3,7 +3,7 @@
 
 Name: Garcia, Dennis James T. <br>
 Section: CPE21S4 <br>
-Programming Language: ```cpp```
+Programming Language: ![C++](https://shields.io)
 
 ---
 ## :books: | Course Topics
