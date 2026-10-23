@@ -3,7 +3,7 @@
 
 Name: Garcia, Dennis James T. <br>
 Section: CPE21S4 <br>
-[Static Badge](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![Static Badge](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
 ### :books: | Course Topics
@@ -15,7 +15,7 @@ Algorithm Analysis Techniques
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [1.1](Prelim/HoA 1.1)  | Basic C++ Programming  |
+  | ![1.1](Prelim/HoA 1.1)  | Basic C++ Programming  |
 
 *Arrays and Linked Lists:* <br>
 Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
