@@ -15,7 +15,7 @@ Algorithm Analysis Techniques
 
   | Hands on Activity | Description |
   | :---: | :---: |
-  | [1.1](https://google.com) | Basic C++ Programming  |
+  | [1.1](https://github.com/qdjgarcia-tip/CPE010_CPE21S4/tree/7f6683f21f8962f6ab22c20ae8ff87c375ce4e04/Prelim/HoA%201.1) | Basic C++ Programming  |
 
 *Arrays and Linked Lists:* <br>
 Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
