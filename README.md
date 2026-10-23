@@ -1,13 +1,21 @@
-# **CPE 010 - Data Structures and Algorithms**
-## **Section: CPE21S4**
+# :clipboard: Portfolio for all 2nd Year, First Semester Hands-On Activities
 
-Name: Garcia, Dennis James T.
+### Name: Garcia, Dennis James T.
+### Section: CPE21S4
 
-### :mortar_board: Language: C++
+## Course Topics
 
-### :clipboard:*Portfolio for all 2nd Year, First Semester Hands-On Activities*
+### Preliminary Grading Period
+1. Introduction to Data Structures and Algorithm Analysis: C++ Programming Review, Abstract Data Types, Space and Time
+Complexity, Algorithm Analysis Techniques
 
+  - Hands-on Activity 1.1 >> Basic C++ Programming
 
+2. Arrays and Linked Lists: Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
+
+  - Hands-on Activity 2.1 >> Arrays, Pointers and Dynamic Memory Allocation
+  - Hands-on Activity 3.1 >> Linked Lists
+  - Hands-on Activity 4.1 >> Stacks
 
 
 
