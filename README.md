@@ -1,11 +1,10 @@
 # :clipboard: | Portfolio for CPE010 - Data Structures and Algorithms
-
+---
 #### :wave: | Student Information:
 Name: Garcia, Dennis James T. <br>
 Section: CPE21S4
-
+---
 ## :books: | Course Topics
-
 #### :green_book: | Preliminary Grading Period
 
 Introduction to Data Structures and Algorithm Analysis: <br>
