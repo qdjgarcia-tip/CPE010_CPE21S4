@@ -1,8 +1,9 @@
 # :clipboard: | Portfolio for CPE010 - Data Structures and Algorithms
-
 #### :wave: | Student Information:
+
 Name: Garcia, Dennis James T. <br>
-Section: CPE21S4
+Section: CPE21S4 <br>
+Programming Language: ```cpp```
 
 ---
 ## :books: | Course Topics
