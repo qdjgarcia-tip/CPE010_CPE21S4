@@ -11,17 +11,17 @@ Section: CPE21S4
 *Introduction to Data Structures and Algorithm Analysis:* <br>
 C++ Programming Review, Abstract Data Types, Space and Time Complexity, Algorithm Analysis Techniques
 
-  - | Hands on Activity  | Description |
+  &emsp;| Hands on Activity  | Description |
     | --- | --- |
     | 1.1  | Basic C++ Programming  |
 
 *Arrays and Linked Lists:* <br>
 Dynamic Memory Allocation, and Singly, Doubly and Circular Linked Lists
 
-- | Hands on Activity  | Description |
+&emsp;| Hands on Activity  | Description |
   | --- | --- |
   | 2.1  | Arrays, Pointers and Dynamic Memory Allocation  |
   | 3.1  |  Linked Lists  |
   | 4.1  |  Stacks |
 
-#### closed_book:| Midterm Grading Period
+#### :closed_book: | Midterm Grading Period
